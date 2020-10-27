@@ -3,7 +3,7 @@ map = "C:\\python_map\\"
 
 
 
-#os.mkdir(map)   #make dir
+os.mkdir(map)   #make dir
 
 #os.rmdir(map)   #remove dir
 

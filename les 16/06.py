@@ -1,0 +1,1 @@
+#with is a bs statement especially to python will close files automaticliy
